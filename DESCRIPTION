@@ -1,9 +1,10 @@
 Package: fitocracy
 Type: Package
-Title: What the package does (short line)
+Title: import and plot fitocracy data
 Version: 1.0
 Date: 2014-07-05
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Tom Constant
+Maintainer: Tom Constant <yourfault@somewhere.net>
+Description: import and plot fitocracy data
+License: GPL
+Requires: ggplot2, photonMonkey
